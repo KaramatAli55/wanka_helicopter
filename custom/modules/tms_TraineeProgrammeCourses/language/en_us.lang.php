@@ -1,0 +1,28 @@
+<?php
+// created: 2017-12-20 05:31:21
+$mod_strings = array (
+  'LBL_COHORT' => 'Cohort',
+  'LBL_SDRSUBMITDATE' => 'SDR Submit Date',
+  'LBL_TRAINEECOURSE' => 'Trainee Course',
+  'LBL_TRAINEE' => 'Trainee',
+  'LBL_VOSENDDATE' => 'VOS End Date',
+  'LBL_VOSPERIOD' => 'VOS Period',
+  'LBL_VOSSTARTDATE' => 'VOS Start Date',
+  'LBL_RESULT' => 'NZQA Result',
+  'LBL_PLANNEDSTARTDATE' => 'Planned Start Date',
+  'LBL_PLANNEDENDDATE' => 'Planned End Date',
+  'LBL_ACTUALSTARTDATE' => 'Actual Start Date',
+  'LBL_ACTUALENDDATE' => 'ActualEndDate',
+  'LBL_DESCRIPTION' => 'Description',
+  'LBL_SDRCOMPLETE' => 'SDR Complete',
+  'LBL_CHARGED' => 'Charged',
+  'LNK_NEW_RECORD' => 'Create Course Results',
+  'LNK_LIST' => 'View Course Results',
+  'LNK_IMPORT_TMS_TRAINEEPROGRAMMECOURSES' => 'Import Course Results',
+  'LBL_LIST_FORM_TITLE' => 'Course Result List',
+  'LBL_SEARCH_FORM_TITLE' => 'Search Course Result',
+  'LBL_HOMEPAGE_TITLE' => 'My Course Results',
+  'LBL_TRAINEEPROGRAMME' => 'Trainee Programme',
+  'LBL_TEC_COMPLETION' => 'TEC Course Completion',
+  'LBL_CHARGED_DATE' => 'Charged Date',
+);
